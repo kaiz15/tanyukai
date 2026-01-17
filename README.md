@@ -1,5 +1,5 @@
 # Hi 👋 My name is Tan Yu Kai
-### Year 1 Student in Computer Network & Security
+## Year 1 Student in Computer Network & Security
 
 I’m a first-year student at Universiti Teknologi Malaysia (UTM), currently studying a Bachelor of Computer Network and Security.
 
