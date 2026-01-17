@@ -10,8 +10,7 @@ I’m a first-year student at Universiti Teknologi Malaysia (UTM), currently stu
 
 <br>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="Tech Stack" />
-</div>
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css,figma,linux" height="40" alt="Tech Stack" /></div>
 <br>
 
 ### Socials
